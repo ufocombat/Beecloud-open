@@ -1,0 +1,60 @@
+/Users/admin/Projects/Beecloud/BeeCloud/bin/Debug/netcoreapp2.1/BeeCloud.deps.json
+/Users/admin/Projects/Beecloud/BeeCloud/bin/Debug/netcoreapp2.1/BeeCloud.runtimeconfig.json
+/Users/admin/Projects/Beecloud/BeeCloud/bin/Debug/netcoreapp2.1/BeeCloud.runtimeconfig.dev.json
+/Users/admin/Projects/Beecloud/BeeCloud/bin/Debug/netcoreapp2.1/BeeCloud.dll
+/Users/admin/Projects/Beecloud/BeeCloud/bin/Debug/netcoreapp2.1/BeeCloud.pdb
+/Users/admin/Projects/Beecloud/BeeCloud/bin/Debug/netcoreapp2.1/BeeCloud.Views.dll
+/Users/admin/Projects/Beecloud/BeeCloud/bin/Debug/netcoreapp2.1/BeeCloud.Views.pdb
+/Users/admin/Projects/Beecloud/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.csprojAssemblyReference.cache
+/Users/admin/Projects/Beecloud/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Beecloud/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.RazorAssemblyInfo.cache
+/Users/admin/Projects/Beecloud/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.RazorAssemblyInfo.cs
+/Users/admin/Projects/Beecloud/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.AssemblyInfoInputs.cache
+/Users/admin/Projects/Beecloud/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.AssemblyInfo.cs
+/Users/admin/Projects/Beecloud/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.TagHelpers.input.cache
+/Users/admin/Projects/Beecloud/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.TagHelpers.output.cache
+/Users/admin/Projects/Beecloud/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.RazorCoreGenerate.cache
+/Users/admin/Projects/Beecloud/BeeCloud/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/admin/Projects/Beecloud/BeeCloud/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/admin/Projects/Beecloud/BeeCloud/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/admin/Projects/Beecloud/BeeCloud/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/admin/Projects/Beecloud/BeeCloud/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/admin/Projects/Beecloud/BeeCloud/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/admin/Projects/Beecloud/BeeCloud/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/admin/Projects/Beecloud/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.RazorTargetAssemblyInfo.cache
+/Users/admin/Projects/Beecloud/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.RazorTargetAssemblyInfo.cs
+/Users/admin/Projects/Beecloud/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.Views.pdb
+/Users/admin/Projects/Beecloud/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.dll
+/Users/admin/Projects/Beecloud/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.pdb
+/Users/admin/Projects/Beecloud/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.csproj.CopyComplete
+/Users/admin/Projects/Beecloud/BeeCloud/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/admin/Projects/Beecloud — open/BeeCloud/bin/Debug/netcoreapp2.1/BeeCloud.deps.json
+/Users/admin/Projects/Beecloud — open/BeeCloud/bin/Debug/netcoreapp2.1/BeeCloud.runtimeconfig.json
+/Users/admin/Projects/Beecloud — open/BeeCloud/bin/Debug/netcoreapp2.1/BeeCloud.runtimeconfig.dev.json
+/Users/admin/Projects/Beecloud — open/BeeCloud/bin/Debug/netcoreapp2.1/BeeCloud.dll
+/Users/admin/Projects/Beecloud — open/BeeCloud/bin/Debug/netcoreapp2.1/BeeCloud.pdb
+/Users/admin/Projects/Beecloud — open/BeeCloud/bin/Debug/netcoreapp2.1/BeeCloud.Views.dll
+/Users/admin/Projects/Beecloud — open/BeeCloud/bin/Debug/netcoreapp2.1/BeeCloud.Views.pdb
+/Users/admin/Projects/Beecloud — open/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.csprojAssemblyReference.cache
+/Users/admin/Projects/Beecloud — open/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Beecloud — open/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.RazorAssemblyInfo.cache
+/Users/admin/Projects/Beecloud — open/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.RazorAssemblyInfo.cs
+/Users/admin/Projects/Beecloud — open/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.AssemblyInfoInputs.cache
+/Users/admin/Projects/Beecloud — open/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.AssemblyInfo.cs
+/Users/admin/Projects/Beecloud — open/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.TagHelpers.input.cache
+/Users/admin/Projects/Beecloud — open/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.TagHelpers.output.cache
+/Users/admin/Projects/Beecloud — open/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.RazorCoreGenerate.cache
+/Users/admin/Projects/Beecloud — open/BeeCloud/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/admin/Projects/Beecloud — open/BeeCloud/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/admin/Projects/Beecloud — open/BeeCloud/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/admin/Projects/Beecloud — open/BeeCloud/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/admin/Projects/Beecloud — open/BeeCloud/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/admin/Projects/Beecloud — open/BeeCloud/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/admin/Projects/Beecloud — open/BeeCloud/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/admin/Projects/Beecloud — open/BeeCloud/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/admin/Projects/Beecloud — open/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.RazorTargetAssemblyInfo.cache
+/Users/admin/Projects/Beecloud — open/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.RazorTargetAssemblyInfo.cs
+/Users/admin/Projects/Beecloud — open/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.Views.pdb
+/Users/admin/Projects/Beecloud — open/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.dll
+/Users/admin/Projects/Beecloud — open/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.pdb
+/Users/admin/Projects/Beecloud — open/BeeCloud/obj/Debug/netcoreapp2.1/BeeCloud.csproj.CopyComplete
